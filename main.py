@@ -26,8 +26,8 @@ def main():
     st.markdown(hide_st_style, unsafe_allow_html=True)
 
 
-    sheet_id = '1R8aoZV-O5p4dIBdNzsSwQ17rvhxnXld8Wxp0vK5xgwc'
-    df = pd.read_csv(f"https://docs.google.com/spreadsheets/d/{sheet_id}/export?format=csv")
+
+    df = pd.read_csv("https://docs.google.com/spreadsheets/d/1R8aoZV-O5p4dIBdNzsSwQ17rvhxnXld8Wxp0vK5xgwc/export?format=csv")
     df.head()
 
     survey_option = st.sidebar.selectbox('Choose a Data', 
