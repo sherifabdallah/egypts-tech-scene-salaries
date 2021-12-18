@@ -81,7 +81,7 @@ def main():
 
 
 if __name__ == "__main__":
-#     try:
-    main()
-#     except:
-#         st.error('Erorr 404 Please Contact The Deveoloper sherifabdalla2005@gmail.com')
+    try:
+        main()
+    except:
+        st.error('Erorr 404 Please Contact The Deveoloper sherifabdalla2005@gmail.com')
