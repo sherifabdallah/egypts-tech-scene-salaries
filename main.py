@@ -84,4 +84,4 @@ if __name__ == "__main__":
     try:
         main()
     except:
-        st.error('Erorr 404 Please Contact The Deveoloper sherifabdalla2005@gmail.com')
+        st.error('Erorr 404 Please Contact The Deveoloper sherif.abdulla@outlook.com')
