@@ -51,6 +51,9 @@ session operates in a virtual environment set up by `virtualenv`.
 ```sh
 (venv)$ python -m streamlit run main.py
 ```
+* And navigate to `http://127.0.0.1:8501`.
+
+
 ## URL
 * You can also navigate to the main website without needing to install python, you can navigate it from [here](https://share.streamlit.io/sherif-abdallah/egypt-high-schools-statistics/main/main.py)
 
