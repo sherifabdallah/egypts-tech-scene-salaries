@@ -47,7 +47,7 @@ Note the `(venv)` in front of the prompt. This indicates that this terminal
 session operates in a virtual environment set up by `virtualenv`.
 
 
-* Finally run The Software
+* Finally run The Server
 ```sh
 (venv)$ python -m streamlit run main.py
 ```
