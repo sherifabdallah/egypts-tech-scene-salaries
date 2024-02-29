@@ -21,7 +21,7 @@ This unintelligibility makes anyone who wants to value themselves in the market 
 ## How to run
 * Enter the directory where the script is located then type the following to the console
 ```sh
-$ git clone https://github.com/sherif-abdallah/egypts-tech-scene-salaries egypts-tech-scene-salaries
+$ git clone https://github.com/sherifabdallah/egypts-tech-scene-salaries egypts-tech-scene-salaries
 ```
 
 * Install Python 3.8 venv, pip and compiler
@@ -55,7 +55,7 @@ session operates in a virtual environment set up by `virtualenv`.
 
 
 ## URL
-* You can also navigate to the main website without needing to install python, you can navigate it from [here](https://share.streamlit.io/sherif-abdallah/egypt-high-schools-statistics/main/main.py)
+* You can also navigate to the main website without needing to install python, you can navigate it from [here](https://share.streamlit.io/sherifabdallah/egypt-high-schools-statistics/main/main.py)
 
 ## Author
-[Sherif Abdullah](https://github.com/sherif-abdallah)
+[Sherif Abdullah](https://github.com/sherifabdallah)
